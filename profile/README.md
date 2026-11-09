@@ -80,7 +80,7 @@
     Основной фронтенд-клиент на Svelte 5. Ядро проекта.
 *   [**`reDTF/proxy`**](https://github.com/re-dtf/proxy) <br>
     Прозрачный прокси авторизации для безопасного обхода CORS-ограничений DTF API.
-*   [**`reDTF/api-docs`**](https://github.com/re-dtf/api-docs) ([сайт](https://re-dtf.github.io/api-docs/)) <br>
+*   [**`reDTF/api-docs`**](https://github.com/re-dtf/api-docs) ([сайт](https://docs.redtf.org/)) <br>
     Актуальная документация по API DTF (OpenAPI 3.1) для разработчиков reDTF и сторонних проектов.
 
 <hr>
